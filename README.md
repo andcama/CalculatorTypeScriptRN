@@ -9,6 +9,6 @@ Calculator built with React Native and TypeScript
 
 ## Screenshots
 
-![Example](/../<master>/assets/to/Screenshot1.png?raw=true "Optional Title")
+![Calculator](https://github.com/andcama/CalculatorTypeScriptRN/blob/master/Screenshot1.png "Optional Title")
 
 
